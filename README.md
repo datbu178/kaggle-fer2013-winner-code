@@ -53,6 +53,9 @@ to make shared CUDA/C++ shared library:
 
 	* 1. run fe_pred.m
 
+## Paper
+http://www.cs.toronto.edu/~tang/papers/dlsvm.pdf
+
 ## Architecture
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/discussion/4676#25022
 
