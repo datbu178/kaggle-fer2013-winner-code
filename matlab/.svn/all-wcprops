@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/10/trunk/matlab
+END
+maxabs.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/matlab/maxabs.m
+END
+load_from_kaggle.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/matlab/load_from_kaggle.m
+END
+net_layers_serialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/matlab/net_layers_serialize.m
+END
+myfclf.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/matlab/myfclf.m
+END
+net_config_basic42.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/matlab/net_config_basic42.m
+END
+batchdata_reshape.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/matlab/batchdata_reshape.m
+END
+logsumexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/matlab/logsumexp.m
+END
+write_grid_images.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/matlab/write_grid_images.m
+END
+net_layers_deserialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/matlab/net_layers_deserialize.m
+END
+net_layers_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/matlab/net_layers_init.m
+END
+default_nn_callback.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/matlab/default_nn_callback.m
+END
+myf.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/matlab/myf.m
+END
+matinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/matlab/matinfo.m
+END
+fe_cv_48.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/matlab/fe_cv_48.m
+END
+gg.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7/trunk/matlab/gg.m
+END
+script_face_exp.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/matlab/script_face_exp.m
+END
+ncc.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/matlab/ncc.m
+END
+sfigure.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/matlab/sfigure.m
+END
+fe_pred.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/matlab/fe_pred.m
+END
+myclassify_conv_nn_softmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/matlab/myclassify_conv_nn_softmax.m
+END
+sc.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7/trunk/matlab/sc.m
+END
+mi.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7/trunk/matlab/mi.m
+END
+rg.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7/trunk/matlab/rg.m
+END
+gprintf.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/matlab/gprintf.m
+END

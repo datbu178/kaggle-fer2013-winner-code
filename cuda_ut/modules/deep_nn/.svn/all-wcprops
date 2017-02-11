@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/cuda_ut/modules/deep_nn
+END
+convNNoo_common.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/cuda_ut/modules/deep_nn/convNNoo_common.cu
+END
+mexcuConvNNooFF.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/cuda_ut/modules/deep_nn/mexcuConvNNooFF.cu
+END
+mexcuConvNNoo.cu
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/cuda_ut/modules/deep_nn/mexcuConvNNoo.cu
+END

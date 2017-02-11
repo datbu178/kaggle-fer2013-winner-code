@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1/README.txt
+END
+nvmex
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1/nvmex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1/Makefile
+END
+nvmex.default
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1/nvmex.default
+END
+nvopts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1/nvopts.sh
+END
+nvopts.sh.default
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/Matlab_Cuda_1.1/nvopts.sh.default
+END

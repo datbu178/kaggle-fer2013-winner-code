@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2
+END
+conv_util.cu
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/conv_util.cu
+END
+normalization_cl.cu
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/normalization_cl.cu
+END
+img_acts_cl.cu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/img_acts_cl.cu
+END
+img_acts.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/img_acts.cu
+END
+conv_util.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/conv_util.cuh
+END
+cudaconv2.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/cudaconv2.cuh
+END
+filter_acts_cl.cu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/filter_acts_cl.cu
+END
+weight_acts_cl.cu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/weight_acts_cl.cu
+END
+filter_acts.cu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/filter_acts.cu
+END
+conv_util_cl.cu
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/conv_util_cl.cu
+END
+weight_acts.cu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/cuda_ut/modules/conv/cudaconv2/weight_acts.cu
+END

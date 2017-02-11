@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/9/trunk/cuda_ut/include
+END
+mlp.cu
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/cuda_ut/include/mlp.cu
+END
+cu_clmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_clmatrix.h
+END
+cu_matrix_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_matrix_ops.h
+END
+cu_cltensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_cltensor.h
+END
+cu_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_math.h
+END
+cu_util.cu
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_util.cu
+END
+cu_gpu_rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_gpu_rand.h
+END
+mex_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/cuda_ut/include/mex_util.h
+END
+cu_dnn_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_dnn_ops.h
+END
+mlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/cuda_ut/include/mlp.h
+END
+cu_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_helpers.h
+END
+cu_matrix_ops.cu
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_matrix_ops.cu
+END
+elewise.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/cuda_ut/include/elewise.h
+END
+cu_matrix_mex.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_matrix_mex.h
+END
+cu_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_util.h
+END
+bsxfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/cuda_ut/include/bsxfun.h
+END
+cu_gpu_rand.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/cuda_ut/include/cu_gpu_rand.cu
+END
+cu_dnn_ops.cu
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/cuda_ut/include/cu_dnn_ops.cu
+END
